@@ -1,0 +1,21 @@
+
+main{
+    width:50%;
+    margin:50px auto;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.btn{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+}
+button{
+    padding:10px 20px;
+    font-size:18px;
+    background-color:blue;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
